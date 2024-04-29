@@ -11,5 +11,5 @@ sudo apt-get update && sudo apt-get install build-essential && wget https://gith
 ```
 ./encoder.sh
 ```
-### RECOMENDADO SELECIONAR A OPÇÃO 1 LOGO DE APÓS INSTALAR
+### RECOMENDADO SELECIONAR A OPÇÃO 1 LOGO DEPOIS DE INSTALAR
 ### PARA CRIAR AS PASTAS "original" e "encryptados"
